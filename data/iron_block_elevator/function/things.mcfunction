@@ -1,0 +1,2 @@
+function iron_block_elevator:iron_block_elevator
+execute if score BeaconFly BeaconFly matches 1 run function iron_block_elevator:beacon_fly
