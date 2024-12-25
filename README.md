@@ -14,9 +14,9 @@
 
 ### 信标起飞
 
-- 需要通过`scoreboard  players  set  BeaconFly  BeaconFly  1`开启
-- 可以通过`scoreboard  players  set  BeaconFly  BeaconFly  0`关闭
+- 需要通过`/scoreboard  players  set  BeaconFly  BeaconFly  1`开启
+- 可以通过`/scoreboard  players  set  BeaconFly  BeaconFly  0`关闭
 - 信标下有铁块、金块、绿宝石块、钻石块或时会将玩家向上传送（不传送旁观者）
 - 如果游戏版本为 1.21 及以上，还可以识别下界合金块
-- 高度依次为 20、40、60、80、100 格；
-- 相同的方块可以叠加高度（最高为 400 格，使用四个下界合金块），如果方块不同，将以距离信标最近的方块为准。
+- 高度依次为 20、40、60、80、100 格
+- 相同的方块可以叠加高度（最高为 400 格，使用四个下界合金块），如果方块不同，将以距离信标最近的方块为准
